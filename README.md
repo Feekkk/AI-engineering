@@ -1,15 +1,5 @@
 # 🧙♂️ Stock Oracle - AI-Powered Stock Prediction Tool
 
-<div align="center">
-  
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
-![React v19](https://img.shields.io/badge/React-19-%2361DAFB)
-![Vite Build](https://img.shields.io/badge/Build-Vite-%23646CFF)
-
-</div>
-
-![Stock Oracle Banner](https://via.placeholder.com/800x200.png?text=Stock+Oracle+Banner+✨) *Replace with actual screenshot*
-
 **Your crystal ball for stock market insights** 🔮 - A modern web application combining AI smarts with real-time financial data to empower your investment decisions.
 
 ## 🌟 Features
@@ -74,21 +64,6 @@ Groq's LLM processes trends and patterns
 Report Generation 📄
 Clean PDF report with actionable insights
 
-graph TD
-    A[User Input] --> B{API Calls}
-    B --> C[Polygon.io Data]
-    B --> D[Groq Analysis]
-    C --> E[Report Generation]
-    D --> E
-    E --> F[User Dashboard]
-
 👨💻 Developer Spotlight
 > "Building Stock Oracle taught me the power of combining modern web tech with AI capabilities. Every line of code is a step toward democratizing financial insights."
 > – Wan Afiq
-
-⚠️ Important Note
-<div align="center" style="background-color: #fff3cd; padding: 1rem; border-radius: 8px; margin: 1rem 0;">
-🚨 Disclaimer
-This tool is for educational purposes only. Always consult certified financial advisors before making investment decisions. We assume no liability for trading outcomes.
-</div>
-
