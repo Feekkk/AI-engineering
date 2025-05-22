@@ -26,21 +26,21 @@ Node.js (v16+)
 API keys for Groq and Polygon.io
 
 **Installation**
-# Clone the repository
+Clone the repository
 `git clone https://github.com/yourusername/stock-oracle.git`
 
-# Navigate to the project directory
+Navigate to the project directory
 `cd stock-oracle`
 
-# Install dependencies
+Install dependencies
 `npm install`
 
-# Create .env file with your API keys
-`echo "VITE_POLYGON_API_KEY=your_polygon_api_key" > .env
-echo "VITE_GROQ_API_KEY=your_groq_api_key" >> .env
-echo "VITE_GROQ_API_BASE=your_groq_api_base_url" >> .env`
+Create .env file with your API keys
+`echo "VITE_POLYGON_API_KEY=your_polygon_api_key" > .env`
+`echo "VITE_GROQ_API_KEY=your_groq_api_key" >> .env`
+`echo "VITE_GROQ_API_BASE=your_groq_api_base_url" >> .env`
 
-# Start the development server
+Start the development server
 `npm run dev`
 
 **🧠 How It Works**
@@ -56,11 +56,11 @@ Optimized Performance - Fast loading times and efficient API usage
 User-Friendly Interface - Clean, intuitive UI with helpful feedback messages
 
 **🚀 Future Enhancements**
-`<input disabled="" type="checkbox"> Historical trend analysis with longer time periods
-<input disabled="" type="checkbox"> Portfolio tracking and management
-<input disabled="" type="checkbox"> Email notifications for significant stock movements
-<input disabled="" type="checkbox"> Enhanced visualization with interactive charts
-<input disabled="" type="checkbox"> User accounts to save favorite stocks`
+`<input disabled="" type="checkbox"> Historical trend analysis with longer time periods`
+`<input disabled="" type="checkbox"> Portfolio tracking and management`
+`<input disabled="" type="checkbox"> Email notifications for significant stock movements`
+`<input disabled="" type="checkbox"> Enhanced visualization with interactive charts`
+`<input disabled="" type="checkbox"> User accounts to save favorite stocks`
 
 **👨‍💻 Developer**
 > Created by Wan Afiq as a demonstration of frontend development skills and AI integration capabilities.
