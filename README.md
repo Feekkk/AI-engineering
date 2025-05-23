@@ -64,6 +64,9 @@ Groq's LLM processes trends and patterns
 Report Generation 📄
 Clean PDF report with actionable insights
 
+Screenshot 📸
+![Stock Oracle Banner]([https://raw.githubusercontent.com/yourusername/stock-oracle/main/screenshots/screenshot.png](https://github.com/Feekkk/AI-engineering/blob/main/Screenshot%202025-05-23%20184623.png))
+
 👨💻 Developer Spotlight
 > "Building Stock Oracle taught me the power of combining modern web tech with AI capabilities. Every line of code is a step toward democratizing financial insights."
 > – Wan Afiq
